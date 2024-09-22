@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "src": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-8c05j3ln5dac46rh15vje9m185-20230502211809.Medi.jpeg",
+    "name": "NIMS Hospital",
+    "address": "Jaipur",
+    "rating": "4.5"
+  },
+  {
+    "id": 2,
+    "src": "https://media.licdn.com/dms/image/v2/C560BAQGFm-vlMkPsxw/company-logo_200_200/company-logo_200_200/0/1652198797094/slocum_dickson_medical_group_logo?e=2147483647&v=beta&t=H8VXlZ0kuiLaobfu2g081VqVrWEiKsnfI61JoqJEGP8",
+    "name": "SDMG Hospital",
+    "address": "Jaipur",
+    "rating": "4.7"
+  },
+  {
+    "id": 3,
+    "src": "https://medicaldialogues.in/h-upload/2024/08/10/247204-sms-hospital.webp",
+    "name": "SMS Hospital",
+    "address": "Jaipur",
+    "rating": "4.8"
+  },
+  {
+    "id": 4,
+    "src": "https://shrihospital.org/wp-content/uploads/2023/08/shreepic.jpg",
+    "name": "Shree Hospital",
+    "address": "Jaipur",
+    "rating": "4.7"
+  },
+  {
+    "id": 5,
+    "src": "https://content3.jdmagicbox.com/comp/jaipur/51/0141p141stdf012751/catalogue/patalia-hospital-and-reserach-center-jagatpura-getor-jaipur-hospitals-m43fp7kc1m.jpg",
+    "name": "Patalia Hospital",
+    "address": "Jaipur",
+    "rating": "4.1"
+  },
+  {
+    "id": 6,
+    "src": "https://www.healthcareradius.in/cloud/2022/06/23/fortis.jpg",
+    "name": "Fortis Hospital",
+    "address": "Jaipur",
+    "rating": "4.3"
+  }
+]
